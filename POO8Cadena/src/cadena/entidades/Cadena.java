@@ -31,4 +31,9 @@ private int longitud;
         this.longitud = longitud;
     }
 
+    @Override
+    public String toString() {
+        return "Cadena{" + "frase=" + frase + ", longitud=" + longitud + '}';
+    }
+
 }
