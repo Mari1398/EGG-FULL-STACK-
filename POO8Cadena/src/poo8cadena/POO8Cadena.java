@@ -17,6 +17,7 @@ public class POO8Cadena {
         System.out.println(c.toString());
         c.setLongitud(c.getFrase().length());
         System.out.println(c.getLongitud());
+        System.out.println("Metododoodspdofjapo  g");
     }
 
 }
