@@ -11,7 +11,7 @@ public class Extra2_POO_Plano {
 
     public static void main(String[] args) {
         ServicioPlano sp = new ServicioPlano();
-        Plano p= new Plano();
+        Plano p;
         p=sp.crearPlano();
         sp.distanciaPuntos(p);
     }
